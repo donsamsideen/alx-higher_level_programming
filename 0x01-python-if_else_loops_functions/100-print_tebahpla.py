@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author - Akintoye Samsideen Gbenga ( Don SAM )
+# Author - Akintoye Samsideen Gbenga ( DonSAM )
 
 i = 0
 for c in range(ord('z'), ord('a') - 1, -1):
